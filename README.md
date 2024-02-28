@@ -1,1 +1,5 @@
-# 2241035.Grafis
+# Pemrograman Grafis
+
+**Nama : Iqbal**
+<br>
+**Nim  :      **
